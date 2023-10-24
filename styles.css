@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: beige;
+}
+div {
+    text-align: center;
+    font-family: sans-serif;
+}
+body {
+    text-align: center;
+  background-color: beige;
+  background-size: 640px 480px;
+}
